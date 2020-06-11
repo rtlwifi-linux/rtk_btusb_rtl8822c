@@ -1,0 +1,1 @@
+# rtk_btusb_rtl8822c
